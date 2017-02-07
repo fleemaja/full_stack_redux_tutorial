@@ -1,1 +1,1 @@
-# full_stack_redux_tutorial
+I am following along with [Full-Stack Redux Tutorial](https://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html "Full-Stack Redux Tutorial") to learn full-stack Redux app development and to get comfortable with developing with strictly immutable data structures.
